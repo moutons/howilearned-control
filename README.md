@@ -1,1 +1,1 @@
-Initial Commit of CoA Repo
+Puppet Control Repo
