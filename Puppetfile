@@ -25,3 +25,6 @@ mod 'notifyme',
   :git => 'git://github.com/glarizza/puppet-notifyme',
   :ref => '50c01703b2e3e352520a9a2271ea4947fe17a51f'
 #
+mod 'omfw',
+  :git => 'git://github.com/moutons/moutons-omfw',
+  :ref => 'v0.0.9'
