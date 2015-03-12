@@ -1,6 +1,5 @@
 # Configura le r10k
 class { 'r10k':
-  version           => '1.3.2',
   sources           => {
     'puppet' => {
       'remote'  => 'https://github.com/moutons/howilearned-control.git',
@@ -13,6 +12,6 @@ class { 'r10k':
       'prefix'  => true,
     }
   },
-  purgedirs         => ["${::settings::confdir}/environments"],
-  manage_modulepath => false,
+# purgedirs         => ["${::settings::confdir}/environments"],
+# manage_modulepath => false,
 }
