@@ -19,7 +19,7 @@ mod "puppetlabs/ntp"
 mod "puppetlabs/pe_gem"
 mod "puppetlabs/postgresql"
 mod "puppetlabs/ruby"
-mod "puppetlabs/stdlib", "<5.0.0"
+mod "puppetlabs/stdlib", "4.5.1"
 mod "puppetlabs/tomcat"
 mod "puppetlabs/vcsrepo"
 #
