@@ -31,3 +31,7 @@ mod 'notifyme',
 mod 'omfw',
   :git => 'git://github.com/moutons/moutons-omfw',
   :ref => 'v0.0.9'
+mod 'role',
+  :git => 'git@bitbucket.org:moutons/role.git'
+mod 'profile',
+  :git => 'git@bitbucket.org:moutons/profile.git'
