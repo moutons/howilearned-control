@@ -4,6 +4,8 @@ forge "http://forge.puppetlabs.com"
 mod "razorsedge/vmwaretools"
 mod "wolfspyre/vmware_puppetfact", '0.2.2'
 mod "zack/r10k"
+mod "aco/oracle_java"
+mod "landcareresearch/solr"
 mod "croddy/make"
 mod "gentoo/portage"
 mod "nanliu/staging", "1.0.0"
