@@ -7,7 +7,7 @@ class { 'r10k':
       'prefix'  => false,
     },
     'hiera' => {
-      'remote'  => 'https://github.com/moutons/howilearned-hieragit',
+      'remote'  => 'https://github.com/moutons/howilearned-hiera.git',
       'basedir' => "${::settings::confdir}/hieradata",
       'prefix'  => true,
     }
